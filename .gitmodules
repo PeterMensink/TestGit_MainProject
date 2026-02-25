@@ -1,4 +1,4 @@
 [submodule "TestGit_SubProject"]
 	path = TestGit_SubProject
 	url = https://github.com/PeterMensink/TestGit_SubProject.git
-	branch = b08f53bfa370542317323fb2921be4c24e2a156a
+	branch = Tag1
